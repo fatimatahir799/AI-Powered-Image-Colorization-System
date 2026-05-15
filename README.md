@@ -83,17 +83,17 @@ python test_lab.py
 
 ## 📁 Project Structure
 
-dipProj/
-├── model_lab.py          # U-Net CNN architecture
-├── train_lab.py          # Training pipeline
-├── test_lab.py           # Testing & evaluation
-├── dataset_loader_lab.py # Data preprocessing
-├── colorization_gui.py   # Tkinter GUI
-├── debug_model.py        # Debugging utilities
-├── requirements.txt      # Dependencies
-├── images/               # Sample images
-└── outputs/              # Colorized results
-
+| File | Description |
+|------|-------------|
+| `model_lab.py` | U-Net CNN architecture |
+| `train_lab.py` | Training pipeline |
+| `test_lab.py` | Testing & evaluation |
+| `dataset_loader_lab.py` | Data preprocessing |
+| `colorization_gui.py` | Tkinter GUI |
+| `debug_model.py` | Debugging utilities |
+| `requirements.txt` | Dependencies |
+| `images/` | Sample images |
+| `outputs/` | Colorized results |
 ---
 
 ## 🎯 Applications
